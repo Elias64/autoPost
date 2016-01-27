@@ -1,0 +1,2 @@
+# autoPost
+phpBB autoPost extension
