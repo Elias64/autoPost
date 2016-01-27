@@ -1,22 +1,17 @@
 {
-    "name": "alifaraji/welcomerobot",
+    "name": "Elias/autopost",
     "type": "phpbb-extension",
-    "description": "This extension create new topic when someone register in board and signs in. this can be a welcome message topic or anything that make new user active and responsive.",
-    "homepage": "https://github.com/alifaraji/welcomerobot",
-    "version": "1.0.0",
-    "time": "2014-12-24",
+    "description": "After a user logs in for the first time, an automatic topic is created in the chosen forum with the chosen text introducing the new user to the community.",
+    "homepage": "https://front-host.com",
+    "version": "0.0.1",
+    "time": "2016-01-27",
     "license": "GPL-2.0",
     "authors": [
         {
-            "name": "Ali Faraji (Ali@php)",
-            "email": "alifaraji.mail@gmail.com",
-            "homepage": "http://www.github.com/alifaraji",
+            "name": "Elias",
+            "email": "eliasnation@gmail.com",
+            "homepage": "https://front-host.com",
             "role": "Lead Developer"
-        },
-        {
-            "name": "eMosbat",
-            "homepage": "https://github.com/eMosbat",
-            "role": "Past Developer"
         }
     ],
     "require": {
