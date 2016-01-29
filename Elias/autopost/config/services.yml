@@ -1,6 +1,6 @@
 services:
-    alifaraji.welcomerobot.listener:
-        class: alifaraji\welcomerobot\event\listener
+    Elias.welcomerobot.listener:
+        class: Elias\autopost\event\listener
         arguments:
             - @config
             - @dbal.conn

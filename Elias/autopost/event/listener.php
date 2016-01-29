@@ -6,7 +6,7 @@
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
 */
-namespace alifaraji\welcomerobot\event;
+namespace Elias\autopost\event;
 /**
 * @ignore
 */

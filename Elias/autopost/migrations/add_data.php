@@ -7,7 +7,7 @@
 *
 */
 
-namespace alifaraji\welcomerobot\migrations;
+namespace Elias\autopost\migrations;
 
 class add_data extends \phpbb\db\migration\migration
 {
@@ -48,7 +48,7 @@ Hope you enjoy!
 				'acp',
 				'ACP_WELCOMEROBOT_TITLE',
 				array(
-					'module_basename'	=> '\alifaraji\welcomerobot\acp\welcomerobot_module',
+					'module_basename'	=> '\Elias\autopost\acp\welcomerobot_module',
 					'modes'				=> array('welcomerobot_settings'),
 				),
 			)),

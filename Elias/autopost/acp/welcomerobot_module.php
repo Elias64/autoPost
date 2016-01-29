@@ -7,7 +7,7 @@
 *
 */
 
-namespace alifaraji\welcomerobot\acp;
+namespace Elias\autopost\acp;
 
 class welcomerobot_module
 {

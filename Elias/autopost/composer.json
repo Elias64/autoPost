@@ -22,11 +22,6 @@
         "display-name": "Welcome Robot",
         "soft-require": {
              "phpbb/phpbb": "3.1.*@dev"
-        },
-        "version-check": {
-            "host": "phpbbpersian.ir",
-            "directory": "/phpbbpersian-extentions",
-            "filename": "welcomerobot_version.json"
         }
     }
 }
